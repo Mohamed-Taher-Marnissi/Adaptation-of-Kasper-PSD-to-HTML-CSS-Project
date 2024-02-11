@@ -1,1 +1,2 @@
 # Adaptation-of-Kasper-PSD-to-HTML-CSS-Project
+This project is a responsive website template created with HTML and CSS, featuring a modern and clean design. It incorporates smooth scrolling, a dynamic header with a toggle menu, and a striking landing section with a background image. The template includes various sections for services, design features, portfolio showcase, video presentation, and contact information. Additionally, it utilizes flexible layout adjustments for different screen sizes, making it suitable for a variety of devices.
